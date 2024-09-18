@@ -3,14 +3,6 @@
 - 🔭 I’m currently working on: **Dreamh, Sauce God and a secret project ;)**
 - 🌱 I’m currently learning: **AI and ML**
 
----
-#### Discord
-
-<a href="https://discord.gg/KNRbYYGbFx"><img src="https://img.shields.io/discord/983948184030162964.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-
-
-[![](https://discord.c99.nl/widget/theme-4/823588482273902672.png)](https://discord.gg/KNRbYYGbFx)
-
 
 ---
 ![Github Overview](https://github-readme-stats.vercel.app/api?username=midatindex0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)
