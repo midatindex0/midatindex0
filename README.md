@@ -3,12 +3,6 @@
 - 🔭 I’m currently working on: **Dreamh, Sauce God and a secret project ;)**
 - 🌱 I’m currently learning: **AI and ML**
 
-
----
-![Github Overview](https://github-readme-stats.vercel.app/api?username=midatindex0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=midatindex0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="RUST RUST RUST" />
-
 ---
 
 ## Skills:
